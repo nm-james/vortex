@@ -1,0 +1,1 @@
+F_MAIN_MENU = F_MAIN_MENU or {}

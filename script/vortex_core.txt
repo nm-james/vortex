@@ -1,0 +1,6 @@
+"vortex_core"
+{
+	"base"		"sandbox"
+	"title"		"[VORTEX] MAIN"
+	"menusystem"	"1"
+}
